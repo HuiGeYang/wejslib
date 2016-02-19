@@ -1,4 +1,5 @@
 //test git
+//storage my passport
 (function(){
 	var we = {};
 	we.version  = '1.0';
